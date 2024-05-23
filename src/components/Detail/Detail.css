@@ -132,13 +132,8 @@
     overflow-y: scroll;
   }
 }
-@media (width>508px) and (width<647px) {
-  .detail {
-    height: 100%;
-    overflow-y: scroll;
-  }
-}
-@media (width>406px) and (width<500px) {
+
+@media (width>396px) and (width<647px) {
   .detail {
     height: 100%;
     overflow-y: scroll;
